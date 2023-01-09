@@ -1,0 +1,16 @@
+{
+  "lighthouseReportName"    : "adidas mobile",
+  "screenWidth"             : 390,
+  "screenHeight"            : 844,
+  "rttMs"                   : 40,
+  "throughputKbps"          : 10240,
+  "cpuSlowdownMultiplier"   : 1,
+  "requestLatencyMs"        : 0,
+  "downloadThroughputKbps"  : 0,
+  "uploadThroughputKbps"    : 0,
+  "throttlingMethod"        : "simulate",
+  "screenEmulationMobile"   : true,
+  "deviceScaleFactor"       : 3,
+  "screenEmulationDisabled" : false,
+  "formFactor"              : "mobile",
+}
